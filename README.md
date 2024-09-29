@@ -5,5 +5,9 @@
   - variable-x, operation-"+", constant-2, function-print()
 
 
+### Datastructure
+[Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+
+
 ### Thesis reading
 - [A Genre-Based Analysis of New Music Streaming at Scale](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/)
