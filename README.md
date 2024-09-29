@@ -5,8 +5,7 @@
   - variable-x, operation-"+", constant-2, function-print()
 
 
-### Datastructure
-[Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 
 
 ### Thesis reading
