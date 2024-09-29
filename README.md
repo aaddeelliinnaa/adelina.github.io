@@ -1,5 +1,4 @@
 # adelina.github.io
 
-1st week
-Python for Everybody
-https://www.coursera.org/specializations/python
+Python for Everybody https://www.coursera.org/specializations/python \n
+28-29 Sep Chapter 1
