@@ -4,8 +4,8 @@
 - 28-29 Sep: Chapter 1
   - variable-x, operation-"+", constant-2, function-print()
   - Constant:numernic constand, string constan
-    
-- Python Data Structures chp6-10
+
+  - Python Data Structures chp6-10
   -
 
 ### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
